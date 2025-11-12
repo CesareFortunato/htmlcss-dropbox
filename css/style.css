@@ -45,3 +45,30 @@
     padding: 10px 20px;
 }
 
+/* MAIN */
+
+/* jumbotron */
+
+.jumbotron-section{
+    padding-top: 40px;
+    background-color: aquamarine;    
+}
+
+.jumbo-container{
+    margin: 0 auto;
+    width: 60%;
+}
+
+.jumbo-title{
+    font-size: 68px;    
+}
+
+/* section 1 piano business */
+
+/* section 2 enterprise */
+
+/* section 3 trova partner */
+
+/* section4 esegui più operazioni */
+
+/* section 5 500000 team */
