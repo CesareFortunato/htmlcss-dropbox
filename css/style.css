@@ -42,7 +42,7 @@
 .fake-button {
     color: white;
     background-color: blue;
-    padding: 10px 20px;
+    padding: 10px 50px;
 }
 
 /* MAIN */
@@ -87,15 +87,99 @@
     height: 100%;
 }
 
-.cta{
+.cta {
     font-size: 14px;
 }
 
-.arrow-down{
+.arrow-down {
     font-size: 68px;
 }
 
 /* section 1 piano business */
+
+.first-section {
+    background-color: darkcyan;
+}
+
+.first-section-container {
+    margin: 0 auto;
+    width: 55%;
+}
+
+.billing-choice{
+    display: flex;
+    width: 100%; 
+    padding: 50px 0;
+    justify-content: flex-start;
+    text-align: left;
+}
+
+.billing-month{
+    margin-right: 50px;
+}
+
+.plans-container{
+    margin: 0 auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.plan{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: 2px solid grey;
+    width: 30%;
+   
+}
+
+.plan-title{
+    text-align: center;
+    border-bottom: 2px solid grey;
+    padding: 10px 0;
+}
+
+.lists{
+    padding-left: 15px;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start; */
+}
+
+.plan-list{
+    list-style: none;
+}
+
+.plan-btn{
+    display: flex;
+    justify-content: center;
+}
+
+.buy-now{
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 15px;
+}
+
+
+.buy-now-link{
+    text-decoration: underline;
+    color: blue;
+}
+
+.hr-plans{
+    width: 30%;      
+  margin-left: 0;   
+  border: none;     
+  border-top: 2px solid grey;
+}
+
+.check-list{
+    color: aqua;
+}
 
 /* section 2 enterprise */
 
