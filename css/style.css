@@ -39,7 +39,7 @@
     justify-content: space-around;
 }
 
-.fake-button{
+.fake-button {
     color: white;
     background-color: blue;
     padding: 10px 20px;
@@ -49,18 +49,50 @@
 
 /* jumbotron */
 
-.jumbotron-section{
+.jumbotron-section {
     padding-top: 40px;
-    background-color: aquamarine;    
+    background-color: aquamarine;
 }
 
-.jumbo-container{
+.jumbo-container {
     margin: 0 auto;
     width: 60%;
 }
 
-.jumbo-title{
-    font-size: 68px;    
+.jumbo-title {
+    font-size: 68px;
+    margin-bottom: 40px;
+}
+
+.jumbo-flex-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.jumbo-cta {
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 20px;
+}
+
+.jumbo-img {
+    max-width: 75%;
+}
+
+.jumbo-img img {
+    width: 100%;
+    height: 100%;
+}
+
+.cta{
+    font-size: 14px;
+}
+
+.arrow-down{
+    font-size: 68px;
 }
 
 /* section 1 piano business */
