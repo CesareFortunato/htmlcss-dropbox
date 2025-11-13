@@ -28,3 +28,12 @@ ul{
 .li-margin{
     margin-top: 20px;
 }
+
+.fake-button {
+    color: white;
+    background-color: blue;
+    text-align: center;
+    width: 70%;
+    padding: 10px 30px;
+    font-size: 14px;
+}

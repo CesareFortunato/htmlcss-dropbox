@@ -46,12 +46,6 @@
     align-items: center;
 }
 
-.fake-button {
-    color: white;
-    background-color: blue;
-    padding: 10px 30px;
-}
-
 /* MAIN */
 
 /* jumbotron */
@@ -134,25 +128,24 @@
     flex-direction: column;
     gap: 10px;
     border: 2px solid grey;
-    width: 30%;
+    width: 27%;
    
 }
 
 .plan-title{
     text-align: center;
+    width: 100%;
     padding: 10px 0;
+    border-bottom: 2px solid gray;
 }
 
 .lists{
     padding-left: 15px;
-    /* display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start; */
 }
 
 .plan-list{
     list-style: none;
+    padding: 15px 20px;
 }
 
 .plan-btn{
