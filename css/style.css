@@ -373,3 +373,57 @@ footer{
     width: 7%;
     margin: 100px 180px;
 }
+
+
+/* BEGIN-PAGE */
+
+.main-container{
+    background-color: #b4d0e6;
+}
+
+.top-container{
+    width: 40%;
+    margin: 0 auto;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.begin-title{
+    font-size: 104px;
+}
+
+.begin-p{
+    font-size: 24px;
+}
+
+.button-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto;
+    gap: 20px;
+}
+
+.try-for-free{
+    background-color: blue;
+    color: white;
+    font-size: 28px;
+    padding: 10px 30px;
+}
+
+.contact-sales{
+    background-color: lightskyblue;
+    color: blue;
+    font-size: 28px;
+    padding: 10px 30px;
+}
+
+.begin-img-container{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.begin-img{
+    width: 100%;
+}
