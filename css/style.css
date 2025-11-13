@@ -97,7 +97,7 @@
 
 /* section 1 piano business */
 
-.fourth-section {
+.fifth-section {
     background-color: darkcyan;
 }
 
@@ -291,3 +291,18 @@
 
 
 /* section 5 500000 team */
+
+.fifth-section-container{
+    width: 40%;
+    margin: 0 450px;
+    margin-bottom: 300px;
+}
+
+.title-fifth-section{
+    font-size: 44px;
+}
+
+.cta-users{
+    text-decoration: underline;
+    color: blue;
+}
