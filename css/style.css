@@ -262,6 +262,32 @@
     margin: 200px auto;
 }
 
+.cards{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card{
+    display: block;
+    width: 30%;
+
+}
+
+.img-card{
+    width: 100%;
+}
+
+.cards-title{
+    font-size: 32px;
+    margin-bottom: 70px;
+}
+
+.card > *{
+    margin: 10px;
+}
 
 
 /* section 5 500000 team */
