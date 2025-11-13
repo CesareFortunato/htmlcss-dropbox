@@ -23,3 +23,7 @@ hr{
 li{
     margin-bottom: 20px;
 }
+
+ul{
+    list-style: none;
+}

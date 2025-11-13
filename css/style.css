@@ -97,10 +97,6 @@
 
 /* section 1 piano business */
 
-.fifth-section {
-    background-color: darkcyan;
-}
-
 .first-section-container {
     margin: 0 auto;
     width: 55%;
@@ -305,4 +301,39 @@
 .cta-users{
     text-decoration: underline;
     color: blue;
+}
+
+
+/* FOOTER */
+footer{
+    color: white;
+}
+
+.footer-section{
+    background-color: black;
+}
+
+.footer-container-top{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.footer-lists{
+    display: block;
+    width: 20%;
+    margin-top: 70px;
+}
+
+.footer-list{
+    margin-top: 30px;
+}
+
+.footer-list-title{
+    font-size: 24px;
+}
+
+.hr-footer{
+    color: gray;
 }
