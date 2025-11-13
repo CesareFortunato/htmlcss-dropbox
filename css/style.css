@@ -172,6 +172,10 @@
     padding: 15px 20px;
 }
 
+.li-month{
+    color: lightgray;
+}
+
 .plan-btn{
     display: flex;
     justify-content: center;
